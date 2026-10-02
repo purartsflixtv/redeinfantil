@@ -1,45 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/jh1RVeQaiT9qjWYm6DOyWkotnd9.jpg", [SERIE] Skylanders Academy (2016)
-#SINOPSE: Série animada da Activision Blizzard Studios, "Skylanders Academy" narra as aventuras heroicas de Spyro, Eruptor, Stealth Elf, Jet-Vac, Pop Fizz e seu time de jovens guerreiros enquanto viajam pelo vasto universo das Skylands, protegendo-o de seres mal-intencionados.
-#EPISODIO: S01E01 - Episódio 1|https://redeflixapi.store/serie/68435/1/1
-#EPISODIO: S01E02 - Episódio 2|https://redeflixapi.store/serie/68435/1/2
-#EPISODIO: S01E03 - Episódio 3|https://redeflixapi.store/serie/68435/1/3
-#EPISODIO: S01E04 - Episódio 4|https://redeflixapi.store/serie/68435/1/4
-#EPISODIO: S01E05 - Episódio 5|https://redeflixapi.store/serie/68435/1/5
-#EPISODIO: S01E06 - Episódio 6|https://redeflixapi.store/serie/68435/1/6
-#EPISODIO: S01E07 - Episódio 7|https://redeflixapi.store/serie/68435/1/7
-#EPISODIO: S01E08 - Episódio 8|https://redeflixapi.store/serie/68435/1/8
-#EPISODIO: S01E09 - Episódio 9|https://redeflixapi.store/serie/68435/1/9
-#EPISODIO: S01E10 - Episódio 10|https://redeflixapi.store/serie/68435/1/10
-#EPISODIO: S01E11 - Episódio 11|https://redeflixapi.store/serie/68435/1/11
-#EPISODIO: S01E12 - Episódio 12|https://redeflixapi.store/serie/68435/1/12
-#EPISODIO: S02E01 - Episódio 1|https://redeflixapi.store/serie/68435/2/1
-#EPISODIO: S02E02 - Episódio 2|https://redeflixapi.store/serie/68435/2/2
-#EPISODIO: S02E03 - Episódio 3|https://redeflixapi.store/serie/68435/2/3
-#EPISODIO: S02E04 - Episódio 4|https://redeflixapi.store/serie/68435/2/4
-#EPISODIO: S02E05 - Episódio 5|https://redeflixapi.store/serie/68435/2/5
-#EPISODIO: S02E06 - Episódio 6|https://redeflixapi.store/serie/68435/2/6
-#EPISODIO: S02E07 - Episódio 7|https://redeflixapi.store/serie/68435/2/7
-#EPISODIO: S02E08 - Episódio 8|https://redeflixapi.store/serie/68435/2/8
-#EPISODIO: S02E09 - Episódio 9|https://redeflixapi.store/serie/68435/2/9
-#EPISODIO: S02E10 - Episódio 10|https://redeflixapi.store/serie/68435/2/10
-#EPISODIO: S02E11 - Episódio 11|https://redeflixapi.store/serie/68435/2/11
-#EPISODIO: S02E12 - Episódio 12|https://redeflixapi.store/serie/68435/2/12
-#EPISODIO: S02E13 - Episódio 13|https://redeflixapi.store/serie/68435/2/13
-#EPISODIO: S03E01 - Episódio 1|https://redeflixapi.store/serie/68435/3/1
-#EPISODIO: S03E02 - Episódio 2|https://redeflixapi.store/serie/68435/3/2
-#EPISODIO: S03E03 - Episódio 3|https://redeflixapi.store/serie/68435/3/3
-#EPISODIO: S03E04 - Episódio 4|https://redeflixapi.store/serie/68435/3/4
-#EPISODIO: S03E05 - Episódio 5|https://redeflixapi.store/serie/68435/3/5
-#EPISODIO: S03E06 - Episódio 6|https://redeflixapi.store/serie/68435/3/6
-#EPISODIO: S03E07 - Episódio 7|https://redeflixapi.store/serie/68435/3/7
-#EPISODIO: S03E08 - Episódio 8|https://redeflixapi.store/serie/68435/3/8
-#EPISODIO: S03E09 - Episódio 9|https://redeflixapi.store/serie/68435/3/9
-#EPISODIO: S03E10 - Episódio 10|https://redeflixapi.store/serie/68435/3/10
-#EPISODIO: S03E11 - Episódio 11|https://redeflixapi.store/serie/68435/3/11
-#EPISODIO: S03E12 - Episódio 12|https://redeflixapi.store/serie/68435/3/12
-#EPISODIO: S03E13 - Episódio 13|https://redeflixapi.store/serie/68435/3/13
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/5Yx7CimnSp6am4GsjpSPpgZQmH3.jpg", [SERIE] Poder de Princesa (2023)
 #SINOPSE: As amigas princesas dos Fruti-reinos Mirtilo, Kiwi, Abacaxi e Framboesa não param por nada em sua missão de fazer do mundo um lugar melhor.
 #EPISODIO: S01E01 - A Bolha|https://redeflixapi.store/serie/209708/1/1
